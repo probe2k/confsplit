@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="mms_forward_partially_downloaded_video" value="true" />
+    <int name="wam_buffer_count" value="3" />
+    <int name="status_image_max_edge" value="7680" />
+    <boolean name="restrict_groups" value="true" />
+    <boolean name="call_out_remote" value="true" />
+    <boolean name="consumer_content_provider" value="true" />
+    <int name="subject_length_limit" value="500" />
+    <int name="db_media_migration_step" value="1" />
+    <boolean name="group_invite_sending" value="true" />
+    <int name="file_index" value="3" />
+    <boolean name="payments_disable_switch_psp" value="true" />
+    <string name="file_date">20200116</string>
+    <boolean name="watls_prefer_ip6" value="true" />
+    <int name="places_source" value="3" />
+    <boolean name="frequently_forwarded_messages" value="true" />
+    <boolean name="third_party_sticker_web_sync" value="true" />
+    <string name="external_file_image">/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20200111-WA0030.mp4</string>
+    <int name="fwd_ui_start_ts" value="********" />
+    <int name="gif_provider" value="2" />
+    <int name="video_max_bitrate" value="6000" />
+    <string name="server_props:config_hash">ETsBL</string>
+    <int name="image_max_kbytes" value="25000" />
+    <boolean name="camera_is_front" value="false" />
+    <boolean name="suspicious_links" value="true" />
+    <boolean name="status_collapse_muted" value="true" />
+    <boolean name="business_product_catalog" value="true" />
+    <int name="status_image_quality" value="100" />
+    <int name="two_factor_auth_nag_interval" value="5" />
+    <boolean name="gcm_fg_service" value="true" />
+    <int name="year_class_cached_value_2016_pref" value="****" />
+    <int name="document_limit_mb" value="1000" />
+    <boolean name="payment_qr_scanning" value="true" />
+    <boolean name="voice_note_locking_enabled" value="true" />
+    <boolean name="optimistic_upload" value="true" />
+    <long name="server_props:refresh" value="********" />
+    <boolean name="voip_low_data_usage" value="false" />
+    <int name="async_fast_forward_ttl" value="432000" />
+    <int name="remove_old_chat_notifications" value="1" />
+    <int name="flash_mode_count" value="3" />
+    <boolean name="watls_no_dns" value="true" />
+    <int name="fieldstats_sis" value="600" />
+    <boolean name="call_in_remote" value="true" />
+    <string name="interface_font_size">0</string>
+    <boolean name="groups_v3" value="true" />
+    <int name="media_limit_mb" value="250" />
+    <boolean name="product_catalog_webclient" value="true" />
+    <boolean name="change_num_v2" value="true" />
+    <boolean name="optimistic_image_processing_enabled" value="true" />
+    <boolean name="gdpr_report" value="true" />
+    <int name="participants_size_limit" value="512" />
+    <int name="perform_sync_manager_version" value="3" />
+    <set name="ab_offline_props:offline_exposure_strings" />
+    <boolean name="share_biz_vcard_enabled" value="true" />
+    <boolean name="mms_chatd_resume_check_over_thrift_enabled" value="true" />
+    <boolean name="ignore_muted_in_badge_count" value="true" />
+    <boolean name="two_factor_auth_last_code_correctness" value="true" />
+    <string name="TestKeySet">proxy_gif_external_services;mms_vcache_aggregation_enabled;mms_hot_content_timespan_in_seconds</string>
+    <boolean name="watls_early_data" value="true" />
+    <int name="status_video_max_duration" value="1200" />
+    <boolean name="server_props:one_time_unlocked" value="false" />
+    <int name="media_limit_auto_download_mb" value="250" />
+    <boolean name="final_live_location" value="true" />
+    <long name="groups_server_props_last_refresh_time" value="***********" />
+    <boolean name="payments_web_enabled" value="true" />
+    <int name="max_keys" value="1000" />
+    <int name="two_factor_auth_email_set" value="1" />
+    <int name="group_description_length" value="512" />
+    <int name="sigquit_anr_detector_rollover_percent" value="100" />
+    <string name="two_factor_auth_code">******</string>
+    <boolean name="template_hsm" value="true" />
+    <int name="server_props:last_version" value="25" />
+    <int name="frequently_forwarded_max_chats" value="10" />
+    <boolean name="mms_cat_v1_forward_hot_override_enabled" value="true" />
+    <int name="year_class_cached_value_pref" value="****" />
+    <int name="payments_upi_transaction_limit" value="25000" />
+    <boolean name="group_join_permissions" value="true" />
+    <boolean name="p2p_pay" value="true" />
+    <int name="sigquit_anr_detector_release_rollover_percent" value="1" />
+    <boolean name="status_ranking_signal_collection" value="true" />
+    <int name="fs_time_spent" value="4" />
+    <boolean name="maintain_db_integrity" value="true" />
+    <boolean name="input_enter_send" value="true" />
+    <boolean name="groups_privacy_blacklist" value="true" />
+    <boolean name="packless_hsm" value="true" />
+    <boolean name="watls_enabled" value="true" />
+    <boolean name="mms_resume_check_chatd" value="true" />
+    <boolean name="inline_video" value="true" />
+    <int name="fieldstats_beacon_chance" value="100" />
+    <int name="multicast_limit_global" value="5" />
+    <int name="mms_hot_content_timespan_in_seconds" value="86400" />
+    <int name="heartbeat_interval_seconds" value="86400" />
+    <boolean name="image_edit_zoom" value="true" />
+    <boolean name="mms_vcache_aggregation_enabled" value="true" />
+    <int name="template_doc_mime_types_int" value="1" />
+    <boolean name="profilo_enabled" value="true" />
+    <int name="image_max_edge" value="15360" />
+    <boolean name="continuous_ptt_play" value="true" />
+    <boolean name="stickers_keyboard_integration_enabled" value="true" />
+    <string name="settings_language">0</string>
+    <long name="two_factor_auth_nag_time" value="**************" />
+    <string name="camera_id">0</string>
+    <int name="image_quality" value="100" />
+    <boolean name="sticker_notification_preview" value="true" />
+    <int name="flash_mode_count0" value="3" />
+    <boolean name="select_em_all" value="true" />
+    <boolean name="move_media_folder_from_sister_app" value="true" />
+    <int name="web_service_delay" value="120" />
+    <boolean name="search_in_storage_usage" value="true" />
+    <boolean name="third_party_sticker_caching" value="true" />
+    <boolean name="auth_fingerprint_enabled" value="true" />
+</map>
