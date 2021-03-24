@@ -3,11 +3,11 @@
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'Cascadia Mono PL', 'monospace', monospace, 'Droid Sans allback'",
+    "editor.fontFamily": "'Cascadia Mono PL', 'CascadiaMonoPL', monospace, 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "workbench.colorTheme": "Default High Contrast",
+    "workbench.colorTheme": "Gruvbox Dark Hard",
     "workbench.iconTheme": "material-icon-theme",
     "github.gitAuthentication": false,
     "material-icon-theme.showWelcomeMessage": false,
@@ -51,7 +51,14 @@
     "dart.updateImportsOnRename": false,
     "python.autoUpdateLanguageServer": false,
     "python.showStartPage": false,
-    "update.mode": "none"
-
-
+    "update.mode": "none",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Google, IndentWidth: 4 }",
+    "git.confirmEmptyCommits": false,
+    "git.confirmForcePush": false,
+    "git.path": null,
+    "git.autofetch": false,
+    "merge-conflict.autoNavigateNextConflict.enabled": false,
+    "merge-conflict.codeLens.enabled": false,
+    "merge-conflict.decorators.enabled": false,
 }
