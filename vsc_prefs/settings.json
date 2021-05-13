@@ -76,4 +76,15 @@
     "editor.occurrencesHighlight": false,
     "editor.matchBrackets": "never",
     "editor.renderLineHighlight": "all",
+    "workbench.colorCustomizations": {
+        "editor.lineHighlightBackground": "#222222"
+    },
+    "dart.closingLabels": false,
+    "git.timeline.showAuthor": false,
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
 }
