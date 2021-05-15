@@ -77,7 +77,7 @@
     "editor.matchBrackets": "never",
     "editor.renderLineHighlight": "all",
     "workbench.colorCustomizations": {
-        "editor.lineHighlightBackground": "#222222"
+        "editor.lineHighlightBackground": "#2f334d"
     },
     "dart.closingLabels": false,
     "git.timeline.showAuthor": false,
