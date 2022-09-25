@@ -3,13 +3,13 @@
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'Cascadia Mono PL', 'Fira Code Retina', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontFamily": "'Liga SFMono Nerd Font', 'Fira Code Retina', 'monospace', 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
     "material-icon-theme.showWelcomeMessage": false,
     "workbench.startupEditor": "none",
-    "python.pythonPath": "/home/probe/anaconda3/bin/python",
+    "python.pythonPath": "/bin/python",
     "search.useIgnoreFiles": false,
     "editor.minimap.enabled": false,
     "[dart]": {
@@ -36,7 +36,6 @@
     "update.mode": "none",
     "editor.foldingHighlight": false,
     "editor.selectionHighlight": false,
-    "editor.highlightActiveIndentGuide": false,
     "dart.allowAnalytics": false,
     "dart.analysisServerFolding": false,
     "dart.autoImportCompletions": false,
@@ -48,17 +47,31 @@
     "editor.matchBrackets": "never",
     "editor.renderLineHighlight": "all",
     "workbench.colorCustomizations": {
-        "editor.lineHighlightBackground": "#2f334d"
+        "editor.lineHighlightBackground": "#222222"
     },
     "dart.closingLabels": false,
-    "workbench.editorAssociations": [
-        {
-            "viewType": "jupyter.notebook.ipynb",
-            "filenamePattern": "*.ipynb"
-        }
-    ],
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
     "editor.cursorStyle": "underline",
     "terminal.integrated.cursorStyle": "underline",
-    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "workbench.colorTheme": "phocus",
+    "jupyter.askForKernelRestart": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.enabled": false,
+    "security.workspace.trust.emptyWindow": false,
+    "security.workspace.trust.startupPrompt": "never",
+    "terminal.integrated.persistentSessionReviveProcess": "never",
+    "terminal.integrated.enablePersistentSessions": false,
+    "dart.flutterHotRestartOnSave": false,
+    "files.hotExit": "off",
+    "editor.lineNumbers": "relative",
+    "notebook.lineNumbers": "on",
+    "editor.guides.bracketPairs": true,
+    "editor.fontSize": 15,
+    "terminal.integrated.fontSize": 15,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true
 }
 
