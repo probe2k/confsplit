@@ -9,7 +9,7 @@
     "telemetry.enableTelemetry": false,
     "material-icon-theme.showWelcomeMessage": false,
     "workbench.startupEditor": "none",
-    "python.pythonPath": "/bin/python",
+    "python.pythonPath": "/home/probe/anaconda3/bin/python",
     "search.useIgnoreFiles": false,
     "editor.minimap.enabled": false,
     "[dart]": {
@@ -71,7 +71,10 @@
     "editor.guides.bracketPairs": true,
     "editor.fontSize": 15,
     "terminal.integrated.fontSize": 15,
+    "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "all",
-    "editor.renderControlCharacters": true
+    "code-eol.newlineCharacter": "↩",
+    "code-eol.returnCharacter" : "¤",
+    "code-eol.crlfCharacter"   : "¤¬"
 }
 
