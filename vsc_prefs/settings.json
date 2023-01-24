@@ -3,25 +3,13 @@
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'Liga SFMono Nerd Font', 'Fira Code Retina', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontFamily": "'JetBrains Mono', 'Fira Code Retina', 'monospace', 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
-    "material-icon-theme.showWelcomeMessage": false,
     "workbench.startupEditor": "none",
-    "python.pythonPath": "/home/probe/anaconda3/bin/python",
     "search.useIgnoreFiles": false,
     "editor.minimap.enabled": false,
-    "[dart]": {
-        "editor.formatOnSave": false,
-        "editor.formatOnType": false,
-        "editor.rulers": [],
-        "editor.selectionHighlight": false,
-        "editor.suggest.snippetsPreventQuickSuggestions": false,
-        "editor.suggestSelection": "first",
-        "editor.tabCompletion": "onlySnippets",
-        "editor.wordBasedSuggestions": false
-    },
     "editor.overviewRulerBorder": false,
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -29,18 +17,10 @@
     "update.showReleaseNotes": false,
     "extensions.autoCheckUpdates": false,
     "extensions.autoUpdate": false,
-    "dart.checkForSdkUpdates": false,
-    "dart.updateImportsOnRename": false,
-    "python.autoUpdateLanguageServer": false,
-    "python.showStartPage": false,
     "update.mode": "none",
     "editor.foldingHighlight": false,
     "editor.selectionHighlight": false,
-    "dart.allowAnalytics": false,
-    "dart.analysisServerFolding": false,
-    "dart.autoImportCompletions": false,
-    "dart.enableSnippets": false,
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
     "workbench.list.keyboardNavigation": "simple",
     "editor.semanticHighlighting.enabled": false,
     "editor.occurrencesHighlight": false,
@@ -49,13 +29,11 @@
     "workbench.colorCustomizations": {
         "editor.lineHighlightBackground": "#222222"
     },
-    "dart.closingLabels": false,
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
     "editor.cursorStyle": "underline",
     "terminal.integrated.cursorStyle": "underline",
-    "workbench.colorTheme": "phocus",
     "jupyter.askForKernelRestart": false,
     "editor.guides.highlightActiveIndentation": false,
     "security.workspace.trust.banner": "never",
@@ -64,17 +42,16 @@
     "security.workspace.trust.startupPrompt": "never",
     "terminal.integrated.persistentSessionReviveProcess": "never",
     "terminal.integrated.enablePersistentSessions": false,
-    "dart.flutterHotRestartOnSave": false,
     "files.hotExit": "off",
     "editor.lineNumbers": "relative",
     "notebook.lineNumbers": "on",
     "editor.guides.bracketPairs": true,
-    "editor.fontSize": 15,
-    "terminal.integrated.fontSize": 15,
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
     "editor.renderControlCharacters": true,
     "editor.renderWhitespace": "all",
     "code-eol.newlineCharacter": "↩",
     "code-eol.returnCharacter" : "¤",
-    "code-eol.crlfCharacter"   : "¤¬"
+    "code-eol.crlfCharacter": "¤¬",
+    "workbench.editor.untitled.hint": "hidden"
 }
-
