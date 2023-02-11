@@ -49,5 +49,8 @@
     "code-eol.returnCharacter" : "¤",
     "code-eol.crlfCharacter": "¤¬",
     "workbench.editor.untitled.hint": "hidden",
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
+    "settingsSync.keybindingsPerPlatform": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Community Material Theme Ocean High Contrast"
 }
