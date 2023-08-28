@@ -3,7 +3,7 @@
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'JetBrains Mono', 'Fira Code Retina', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontFamily": "'Noto Sans Mono', 'Rec Mono Semicasual', 'monospace', 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "workbench.startupEditor": "none",
     "search.useIgnoreFiles": false,
@@ -23,13 +23,13 @@
     "editor.matchBrackets": "never",
     "editor.renderLineHighlight": "all",
     "workbench.colorCustomizations": {
-        "editor.lineHighlightBackground": "#222222"
+        "editor.lineHighlightBackground": "#1a1b26",
+        "editorCursor.foreground": "#4fb4d8",
+        "terminalCursor.foreground": "#4fb4d8"
     },
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "editor.cursorStyle": "underline",
-    "terminal.integrated.cursorStyle": "underline",
     "editor.guides.highlightActiveIndentation": false,
     "security.workspace.trust.banner": "never",
     "security.workspace.trust.enabled": false,
@@ -41,10 +41,8 @@
     "editor.lineNumbers": "relative",
     "notebook.lineNumbers": "on",
     "editor.guides.bracketPairs": true,
-    "editor.fontSize": 16,
-    "terminal.integrated.fontSize": 16,
     "editor.renderControlCharacters": true,
-    "editor.renderWhitespace": "all",
+    /*"editor.renderWhitespace": "all",*/
     "code-eol.newlineCharacter": "↩",
     "code-eol.returnCharacter" : "¤",
     "code-eol.crlfCharacter": "¤¬",
@@ -52,5 +50,11 @@
     "telemetry.telemetryLevel": "off",
     "settingsSync.keybindingsPerPlatform": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Community Material Theme Ocean High Contrast"
+    "workbench.colorTheme": "Tokyo Night Gogh",
+    "python.defaultInterpreterPath": "/home/probe/anaconda3/bin/python",
+    "jupyter.widgetScriptSources": [
+        "jsdelivr.com",
+        "unpkg.com"
+    ],
+    "notebook.outputFontSize": 14
 }
