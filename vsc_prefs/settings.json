@@ -1,9 +1,7 @@
 {
-    "window.menuBarVisibility": "toggle",
-    "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'Noto Sans Mono', 'Rec Mono Semicasual', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontFamily": "'SF Mono', 'Rec Mono Semicasual', 'monospace', 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "workbench.startupEditor": "none",
     "search.useIgnoreFiles": false,
@@ -41,7 +39,6 @@
     "editor.lineNumbers": "relative",
     "notebook.lineNumbers": "on",
     "editor.guides.bracketPairs": true,
-    "editor.renderControlCharacters": true,
     /*"editor.renderWhitespace": "all",*/
     "code-eol.newlineCharacter": "↩",
     "code-eol.returnCharacter" : "¤",
@@ -50,11 +47,16 @@
     "telemetry.telemetryLevel": "off",
     "settingsSync.keybindingsPerPlatform": false,
     "workbench.iconTheme": "material-icon-theme",
-    "workbench.colorTheme": "Tokyo Night Gogh",
+    "workbench.colorTheme": "Celestial",
     "python.defaultInterpreterPath": "/home/probe/anaconda3/bin/python",
     "jupyter.widgetScriptSources": [
         "jsdelivr.com",
         "unpkg.com"
     ],
-    "notebook.outputFontSize": 14
+    "editor.cursorStyle": "block",
+    "notebook.output.fontSize": 14,
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "editor.renderControlCharacters": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.layoutControl.enabled": false
 }
