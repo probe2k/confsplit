@@ -1,7 +1,7 @@
 {
     "workbench.sideBar.location": "right",
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "'SF Mono', 'Rec Mono Semicasual', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontFamily": "'BlexMono Nerd Font', 'Rec Mono Semicasual', 'monospace', 'Droid Sans Fallback'",
     "editor.fontLigatures": true,
     "workbench.startupEditor": "none",
     "search.useIgnoreFiles": false,
@@ -17,7 +17,7 @@
     "editor.foldingHighlight": false,
     "editor.selectionHighlight": false,
     "editor.semanticHighlighting.enabled": false,
-    "editor.occurrencesHighlight": false,
+    "editor.occurrencesHighlight": "off",
     "editor.matchBrackets": "never",
     "editor.renderLineHighlight": "all",
     "workbench.colorCustomizations": {
@@ -39,24 +39,14 @@
     "editor.lineNumbers": "relative",
     "notebook.lineNumbers": "on",
     "editor.guides.bracketPairs": true,
-    /*"editor.renderWhitespace": "all",*/
-    "code-eol.newlineCharacter": "↩",
-    "code-eol.returnCharacter" : "¤",
-    "code-eol.crlfCharacter": "¤¬",
-    "workbench.editor.untitled.hint": "hidden",
+    "telemetry.feedback.enabled": false,
     "telemetry.telemetryLevel": "off",
     "settingsSync.keybindingsPerPlatform": false,
     "workbench.iconTheme": "material-icon-theme",
     "workbench.colorTheme": "Celestial",
-    "python.defaultInterpreterPath": "/home/probe/anaconda3/bin/python",
-    "jupyter.widgetScriptSources": [
-        "jsdelivr.com",
-        "unpkg.com"
-    ],
     "editor.cursorStyle": "block",
     "notebook.output.fontSize": 14,
     "workbench.welcomePage.walkthroughs.openOnInstall": false,
     "editor.renderControlCharacters": false,
-    "window.menuBarVisibility": "toggle",
     "workbench.layoutControl.enabled": false
 }
